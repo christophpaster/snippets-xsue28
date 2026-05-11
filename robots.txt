@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://christophpaster.github.io/snippets-xsue28/sitemap.xml
